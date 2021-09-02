@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+  <head>
+    <title>Mogi Mirim</title>
+    <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+  </head>
+
+  <body>
+
+    <header>
+      <div class="topnav" >
+        <h1>MOGI MIRIM</h1>
+        <div class="cidade">A cidade simpatia</div>
+      </div>
+      </header>
+
+
+    <main>
+        <p>
+            Localizada a leste do Estado de São Paulo, Mogi Mirim está 611 metros acima do nível do mar. 
+            A temperatura anual varia entre 18°C e 28°C. O território de <strong>Mogi Mirim</strong> totaliza 499 quilômetros quadrados. 
+            A população estimada está próxima de <strong>90 mil habitantes</strong>. O Município é servido por <strong>três rodovias</strong>: A Rodovia “Adhemar Pereira de Barros” (SP-340) (Campinas-Águas da Prata), 
+            que possui pista dupla e serve de ligação de Mogi Mirim com Campinas, São Paulo e o Porto de Santos. A Rodovia “José Tosello” (SP-147), em pista dupla, faz a ligação do município com Itapira e Sul de Minas Gerais. 
+            No braço inverso, faz o elo entre Mogi Mirim e Limeira, alcançando a Rodovia Anhanguera. Por último, a Rodovia “Wilson Finardi” (SP-191) 
+            permite a ligação do município com Conchal e Araras, alcançando igualmente a Rodovia Anhanguera.
+          </p>
+  
+          <iframe src="https://www.youtube.com/embed/NrxwI4hK5YI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h2>Curiosidades</h2>
+          <ul>
+            <li>Mogi Mirim foi fundada por bandeirantes que buscavam pedras preciosas em Minas Gerais e Goiás. O nome vem do tupi e significa Pequeno Rio das Cobras.</li>
+            <li>Em 1886, os fazendeiros de Mogi Mirim começaram a angariar o trabalho de imigrantes estrangeiros para suas lavouras de café e algodão. Eram italianos, portugueses, espanhóis e, posteriormente, sírio-libaneses e japoneses. </li>
+            <li>Mogi Mirim era o centro ferroviário da malha Mogiana de trens, o que futuramente se tornaria a CPTM. Por este motivo, cheogu a ser até visitado por Dom Pedro II.</li>
+        
+          </ul>
+        <div class="icons">
+          <a href="https://www.instagram.com/prefeiturademogimirim/" target="_blank">
+            <i class="fab fa-instagram"></i>
+          </a>
+         <a href="https://www.facebook.com/PrefeituraMogiMirim/" target="_blank">
+          <i class="fab fa-facebook"></i>
+         </a>
+        </div>
+      </main>
+  
+
+</body>
+
+</html>
